@@ -1,5 +1,6 @@
 {
   "name": "loose-motion",
+  "homepage": "https://aditya-raj-chauhan.github.io/the-local-chef",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,12 +8,15 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "jspdf": "^2.5.2",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.1.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
@@ -23,7 +27,7 @@
     "eslint-plugin-react": "^7.37.2",
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.16",
-    "gh-pages": "^6.3.0",
+    "gh-pages": "^6.0.0",
     "globals": "^15.14.0",
     "vite": "^6.0.5"
   }
