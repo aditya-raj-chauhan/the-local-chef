@@ -1,0 +1,5 @@
+.page{
+    width: 100vw;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #5629e8, #1A1A1A);
+}
