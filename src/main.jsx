@@ -1,14 +1,11 @@
-import React from "react";
-import ReactDOM from "react-dom/client"; // Use this for React 18
-import { BrowserRouter } from "react-router-dom";
-import App from "./App";
+// src/main.jsx
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import App from './App'; // ✅ now this matches the default export
+import { HashRouter } from 'react-router-dom';
 
-const root = ReactDOM.createRoot(document.getElementById("root")); // Use React 18 API
-root.render(
-  <React.StrictMode>
-    {/* Remove basename if not hosting in a subdirectory */}
-    <BrowserRouter>
-      <App />
-    </BrowserRouter>
-  </React.StrictMode>
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <HashRouter>
+    <App />
+  </HashRouter>
 );
