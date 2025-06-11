@@ -1,8 +1,10 @@
 <p align="center">
-	<img src="[data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KICAgIDxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgODAwIDIwMCI+CiAgICAgICAgPGRlZnM+CiAgICAgICAgICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmctZ3JhZGllbnQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzQxNThEMDtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgICAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdHlsZT0ic3RvcC1jb2xvcjojQzg1MEMwO3N0b3Atb3BhY2l0eToxIiAvPgogICAgICAgICAgICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojRkZDQzcwO3N0b3Atb3BhY2l0eToxIiAvPgogICAgICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICAgICAgICA8ZmlsdGVyIGlkPSJzaGFkb3ciPgogICAgICAgICAgICAgICAgPGZlRHJvcFNoYWRvdyBkeD0iMCIgZHk9IjQiIHN0ZERldmlhdGlvbj0iNCIgZmxvb2Qtb3BhY2l0eT0iMC4yNSIgLz4KICAgICAgICAgICAgPC9maWx0ZXI+CiAgICAgICAgPC9kZWZzPgogICAgICAgIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iMjAwIiBmaWxsPSJ1cmwoI2JnLWdyYWRpZW50KSIgcng9IjE1IiByeT0iMTUiLz4KICAgICAgICA8dGV4dCB4PSI0MDAiIHk9IjEwMCIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjQ4IgogICAgICAgIGZvbnQtd2VpZ2h0PSJib2xkIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIgogICAgICAgIGZpbGw9IiNGRkZGRkYiIGZpbHRlcj0idXJsKCNzaGFkb3cpIj5USEUtTE9DQUwtQ0hFRjwvdGV4dD4KICAgIDwvc3ZnPg==](https://pics.clipartpng.com/Plate_Knife_and_Fork_PNG_Clipart-601.png)" alt="the-local-chef-banner" width="800">
+	<img src="https://pics.clipartpng.com/Plate_Knife_and_Fork_PNG_Clipart-601.png" alt="the-local-chef-banner" width="800">
 </p>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
+	<em><code>❯ the-local-chef</code></em>
+</p>
+
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/aditya-raj-chauhan/the-local-chef?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -229,9 +231,9 @@ Run the test suite using the following command:
 ---
 ## 📌 Project Roadmap
 
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
+- [X] **`Task 1`**: <strike>Deploye the website on github pages.</strike>
+- [ ] **`Task 2`**: add dark mode feature 
+- [ ] **`Task 3`**: high level input feild validation
 
 ---
 
@@ -280,12 +282,27 @@ Run the test suite using the following command:
 
 ## 🎗 License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+This project is protected under the [Mit license](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
 
 ---
 
 ## 🙌 Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
+This project, The Local Chef, was born not just from logic and loops —
+but from late-night hunger, heartbreaks that cooked me,
+and a belief that even a lonely fridge can whisper recipes of love.
+
+I want to thank:
+
+The Open Source Community, for being the kindest kitchen of creators.
+
+React & Vite, for the fire beneath this dish.
+
+Icons8, Unsplash, and all the SVG magicians whose art flavored the UI.
+
+
+
+
+Thank you for reading. Thank you for believing.
 
 ---
