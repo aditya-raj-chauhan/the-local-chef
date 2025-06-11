@@ -36,14 +36,38 @@
 ---
 
 ## 📍 Overview
+<code>❯
 
-<code>❯ REPLACE-ME</code>
+The Local Chef is a web app that lets users create delicious recipes based on the ingredients they have at home.
+Just enter two or more ingredients, and the app—powered by AI—will craft a custom recipe for you, complete with steps and downloadable PDF.
+
+Built with React + Vite, it turns kitchen chaos into culinary creativity.</code>
 
 ---
 
 ## 👾 Features
 
-<code>❯ REPLACE-ME</code>
+<code>❯👾 Features
+🥕 Smart Ingredient Input
+Add ingredients dynamically — the app won’t judge if it’s just "rice and onion."
+
+🤖 AI-Powered Recipe Generator
+Using OpenAI, it crafts unique recipes based on your ingredients, cooking up creativity where your fridge ends.
+
+📄 Download as PDF
+Don’t just read — own the recipe. Download it as a beautifully formatted PDF to save or share.
+
+🎨 Responsive & Sleek UI
+TailwindCSS meets smooth transitions — optimized for both midnight mobile chefs and big-screen foodies.
+
+⚡ Blazing Fast with Vite
+Instant load times and dev experience that feels like butter on a hot pan.
+
+🔍 Error Handling & Validation
+Ensures you enter enough ingredients to cook up a real dish (at least 2!).
+
+🌒 (Optional) Dark Mode Ready
+Because even heartbreak tastes better under the stars.</code>
 
 ---
 
