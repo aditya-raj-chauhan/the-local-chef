@@ -1,11 +1,11 @@
-import Page from "./Page";
+// main.jsx
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import App from './App';
+import { HashRouter } from 'react-router-dom';
 
-const App=()=>{
-return(
-  <>
-  <Page />
-
-  </>
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <HashRouter>
+    <App />
+  </HashRouter>
 );
-}
-export default App
